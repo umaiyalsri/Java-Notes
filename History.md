@@ -14,7 +14,7 @@ Source code -> compile -> Byte code -> interpret -> Machine code
 - - Inheritance -> One class aquiring the prperties of another class
 - - Encapsulation -> Data Private, Method Public
 - - Polymorphism -> Methods with same name but diiferent parameters
-- - Abstraction -> Method will be declared but implementation would not be there. 
+- - Abstraction -> mathod will be declared but implementation would not be there. 
 
 # Java Development Kit (jdk)
 - appletviewer (view java applets)
