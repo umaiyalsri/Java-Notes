@@ -9,12 +9,12 @@ Java 1995 - James Gosling Sun Microsystems ->Oracle
 
 Source code -> compile -> Byte code -> interpret -> Machine code 
 
-- - Class -> Blueprint for objects (Collection of data members and member function)
-- - Object -> Instance of a class
-- - Inheritance -> One class aquiring the prperties of another class
-- - Encapsulation -> Data Private, Method Public
-- - Polymorphism -> Methods with same name but diiferent parameters
-- - Abstraction -> mathod will be declared but implementation would not be there. 
+- Class -> Blueprint for objects (Collection of data members and member function)
+- Object -> Instance of a class
+- Inheritance -> One class aquiring the prperties of another class
+- Encapsulation -> Data Private, Method Public
+- Polymorphism -> Methods with same name but diiferent parameters
+- Abstraction -> Method will be declared but implementation would not be there. 
 
 # Java Development Kit (jdk)
 - appletviewer (view java applets)
